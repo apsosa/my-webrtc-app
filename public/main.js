@@ -19,7 +19,7 @@ const streamConstrainst = {
   video: true
 }
 btnGoRoom.onclick = ()=>{
-  if(inputRoomNumber.value == ''){
+  if(inputRoomNumber.value === ''){
     alert("please type a room name")
   }else{
     navigator.mediaDevices.getUserMedia(streamConstrainst)
