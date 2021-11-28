@@ -1,2 +1,2 @@
 # my-webrtc-app
-Simple app to test wertc conection
+Simple app to test wertc connection
